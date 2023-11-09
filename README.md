@@ -1,2 +1,2 @@
 # cobracrystal-cogs
-Custom cogs for modcat
+Custom cogs for Red
